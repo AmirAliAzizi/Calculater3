@@ -1,0 +1,15 @@
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\RechnerApp.csproj.AssemblyReference.cache
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\MainWindow.g.cs
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\App.g.cs
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\RechnerApp_MarkupCompile.cache
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\RechnerApp_MarkupCompile.lref
+C:\workPlace\TA\RechnerApp\RechnerApp\bin\Debug\RechnerApp.exe.config
+C:\workPlace\TA\RechnerApp\RechnerApp\bin\Debug\RechnerApp.exe
+C:\workPlace\TA\RechnerApp\RechnerApp\bin\Debug\RechnerApp.pdb
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\MainWindow.baml
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\RechnerApp.g.resources
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\RechnerApp.Properties.Resources.resources
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\RechnerApp.csproj.GenerateResource.cache
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\RechnerApp.csproj.CoreCompileInputs.cache
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\RechnerApp.exe
+C:\workPlace\TA\RechnerApp\RechnerApp\obj\Debug\RechnerApp.pdb
